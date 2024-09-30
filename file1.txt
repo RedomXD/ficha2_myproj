@@ -1,0 +1,3 @@
+Este é o exemplo de um ficheiro de texto file1
+Este exemplo esta a sujeito a testes
+Este ficheiro sera file 1.0.1
