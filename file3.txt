@@ -1,3 +1,5 @@
 Este é o exemplo de um ficheiro de texto file3
 Este exercício está englobado no âmbito da ficha 1
+Este ficheiro foi sujeita  a alterações após o Exercício 3 da ficha 3?
+
 Ficheiro Atualizado.
